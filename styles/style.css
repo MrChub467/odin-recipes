@@ -1,0 +1,27 @@
+.title {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 54px;
+  font-weight: bold;
+  color: rgb(28, 28, 190);
+}
+.subtitle {
+  font-size: 27px;
+}
+ul.ulist {
+  list-style-position: inside;
+  text-align: center;
+  margin-left: -35px;
+
+}
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 450px;
+  width: auto;
+}
